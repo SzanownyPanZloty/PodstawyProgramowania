@@ -1,3 +1,5 @@
+package Labs_1;
+
 public class task3 {
   public static void main(String[] args) {
     int oddNumber = 1;
