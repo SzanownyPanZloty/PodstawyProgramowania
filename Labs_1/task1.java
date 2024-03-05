@@ -8,11 +8,11 @@ public class task1 {
       new StringBuilder()
         .append("addition: ")
         .append(firstNumber + secondNumber)
-        .append("\nsubstract: ")
+        .append("\nsubtract: ")
         .append(firstNumber - secondNumber)
         .append("\nmultiply: ")
         .append(firstNumber * secondNumber)
-        .append("\ndevide: ")
+        .append("\ndivide: ")
         .append(firstNumber / secondNumber)
     );
   }
